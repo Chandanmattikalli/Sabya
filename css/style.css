@@ -1,0 +1,280 @@
+body{ margin:0 auto;}
+.header{width:100%; background: url(../images/header.png) repeat-x; height:154px; float:left;  margin:0px auto; padding:0px; /*margin-left:-7px;*/}
+.header_outline{width:1100px;  height:109px; border:0px solid #000000;  margin:10px auto; background-position:center;  padding:0px; /*margin-left:-7px;*/}
+.header_logo{width:300px; border:0px solid #000000; float:left; height:auto;}
+.header_selection_bx{width:200px; border:0px solid #000000; float:left; height:auto; margin-left:35px; margin-top:35px;}
+.header_loginbx{width:215px; border:0px solid #000000; float:right; height:auto;}
+	.header_user{width:auto; border:0px solid #000000; float:left; height:auto; margin-top:20px;}
+	.header_agent{width:auto; border:0px solid #000000; float:left; height:auto; margin-top:20px; margin-left:10px; }
+	.welcome{width:auto; border:0px solid #000000; float:left; height:auto; margin-top:20px; margin-left:-50px;}
+.phone_no{width:300px; border:0px solid #000000; float:left; height:35px; clear:both;  margin-top:-25px; color:#FFFFFF; margin-left:850px;}
+
+.slideshow{ width:100%; height:450px; margin:0px auto; padding:0px; border:0px solid #000000; /*background:#CCCCCC;*/ float:left; /*margin-left:-6px;*/}
+
+/****************************************************************************************************************************************************/
+.shadow{ background:url(../images/shadow.png) no-repeat; width:941px; height:22px; margin:365px 0 0 125px; float:left; background-position:center;}
+/****************************************************************************************************************************************************/
+
+.contents{ width:87%; margin-left:120px; height:auto; border:0px solid #FF0000; padding-bottom:15px; float:left;}
+.left{width:855px; height:auto; border:0px solid #0000CC; float:left; margin-left:10px;}
+.right{width:5px; height:auto; border:0px solid #0000CC; margin-righ5: 300px; float:left;}
+/****************************************************************************************************************************************************/
+
+.traffic_top_center{ background: url(../images/most_liked.png) no-repeat; margin-left: 0px; height:54px; float:left; width:100%;}
+.traffic_top_centerr{ background: url(../images/top10.png) no-repeat; height:54px; float:left; width:100%;}
+.traffic_top_center span{padding-top:15px; float:left; color:#FFFFFF; font-size:1.2em; font-family:Arial, Helvetica, sans-serif; letter-spacing:2px; text-align:center;}
+	.heading1{ width:250px; height:40px; border:0px solid #FFFFFF; float:left; margin-top:20px; padding-left:35px;}
+	.heading1 h1{ font-family:Arial, Helvetica, sans-serif; font-size:1em; color:#FFFFFF;}
+	.heading2{ width:250px; height:40px; border:0px solid #FFFFFF; float:left; margin-left:10px; margin-top:20px;}
+	.heading2 h1{ font-family:Arial, Helvetica, sans-serif; font-size:1em; color:#FFFFFF;}
+	.heading3{ width:250px; height:40px; border:0px solid #FFFFFF; float:left; margin-left:10px; margin-top:20px;}
+	.heading3 h1{ font-family:Arial, Helvetica, sans-serif; font-size:1em; color:#FFFFFF;}
+
+.traffic_middle_left{ background: url(../images/table_middle_left.png) repeat; width:22px; }
+.traffic_middle_right{ background: url(../images/table_right_middle.png) repeat;; width:22px;}
+.traffic_bottom_middle{ background: url(../images/table_bottom_middle.png) repeat-x; height:20px; float:left; width:100%;}
+
+/*************************************************center of table*********************************************************************************/
+.location{ width:180px; height:auto; border:0px solid #000; float:left; margin-top:15px; margin-left:25px;}
+		.location ul{ margin:0px; padding:0px;}
+		.location ul li{ display:block; padding-bottom:15px; padding-top:10px; }
+		.location ul li a{ font-family:Arial, Helvetica, sans-serif; color:#79011C; text-decoration:none; font-size:14px; font-weight:bold; padding-left:10px;  }
+		.location ul li a:hover{ font-family:Arial, Helvetica, sans-serif; color:#003300; margin-left:5px; text-decoration:none; font-size:14px; font-weight:bold}
+.restaurants{ width:50px; height:auto; border:0px solid #000; float:left; margin-left:0px; margin-top:15px;}
+.restaurants_tbl{ }
+.restaurants_tbl td { height:15px; padding-bottom:5px; color: #660066; font-family:Arial, Helvetica, sans-serif; font-size:11px;}
+.restaurants_tbl td #spl { border-bottom:1px dotted #CCCCCC;}
+.wrapper{ width:1150px; height:1200px; background:url(../images/transparent.png) repeat-y; margin:80px 80px 100px 100px; float:none;}
+.gourments{width:250px; height:auto; border:0px solid #000; float:left; margin-left:25px; margin-top:15px;}
+.gourments_tbl{ }
+.gourments_tbl td { height:15px; padding-bottom:5px; color: #660066; font-family:Arial, Helvetica, sans-serif; font-size:11px;}
+.gourments_tbl td #spl { border-bottom:1px dotted #CCCCCC;}
+
+.view_all{width:200px; height:auto; border:0px solid #000; float:left; margin-top:10px; margin-left:155px; }
+.view_all_1{width:200px; height:auto; border:0px solid #000; float:left; margin-top:450px; margin-right:500px; padding-left:10px; }
+.view_all_2{width:250px; height:auto; border:0px solid #000; float:left; margin-top:10px; margin-left:55px; padding-left:20px; }
+
+/*************************************************center of table*********************************************************************************/
+.gray_bg{width:100%; background: url(../images/gallegy_bg.png) repeat-x; height:352px;  margin:0px auto; padding:0px; border-top:1px solid #999999; /*margin-left:-7px;*/ float:left;}
+.gray_bg_slider{ width:1100px; margin:0px auto; height: auto; border:0px solid #000;}
+/****************************************************************************************************************************************************/
+.footer{width:100%; background: url(../images/footer_bg.png) repeat-x; height:343px;  margin:0px auto; padding:0px; /*margin-left:-7px;*/ float:left;}
+.footer_menu_bg{ width:1100px;  height:220px; border:0px solid #000000; margin:60px auto; background-position:center;  padding:0px; /*margin-left:-7px;*/}
+	.footer_menu_1{ width:345px;  height: auto; border:0px solid #fff; float:left; margin-left:7px;}
+		.footer_menu_1 ul{ margin:0px; padding:0px; }
+		.footer_menu_1 ul li{ display:block; border-bottom:1px dotted #FFFFFF; padding-bottom:15px; padding-top:10px;}
+		.footer_menu_1 ul li a{ font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; text-decoration:none; font-size:16px; font-weight:bold;}
+		.footer_menu_1 ul li a:hover{ font-family:Arial, Helvetica, sans-serif; color: #00FF00; margin-left:5px; text-decoration:none; font-size:16px; font-weight:bold}
+	
+	.footer_menu_2{ width:345px;  height: auto; border:0px solid #fff; float:left; margin-left:20px;}
+		.footer_menu_2 ul{ margin:0px; padding:0px; }
+		.footer_menu_2 ul li{ display:block; border-bottom:1px dotted #FFFFFF; padding-bottom:15px; padding-top:10px;}
+		.footer_menu_2 ul li a{ font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; text-decoration:none; font-size:16px; font-weight:bold;}
+		.footer_menu_2 ul li a:hover{ font-family:Arial, Helvetica, sans-serif; color: #00FF00; margin-left:5px; text-decoration:none; font-size:16px; font-weight:bold}
+	
+	
+	.footer_menu_3{ width:345px;  height: auto; border:0px solid #fff; float:left; margin-left:35px;}
+	.footer_menu_3_addr{ width:335px;  height: auto; border:0px solid #fff; margin-top:15px;}
+	.footer_menu_3_addr h3{ color:#FFFFFF; font-family:Arial, Helvetica, sans-serif; font-size:21px;}
+	.footer_menu_3_addr p{ color:#FFFFFF; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:20px;}
+	.footer_menu_3_copyright{ width:335px;  height: auto; border:0px solid #fff; margin-top:120px; margin-left:-375px; }
+	.footer_menu_3_copyright p{ color:#FFFFFF; font-family:Arial, Helvetica, sans-serif; font-size:12px;}
+	
+/*********************************************restaurant-in hubli*****************************************************************************************/
+
+.restarant_heading{ width: auto; height:40px; border:0px solid #FFFFFF; float:left; margin-top:5px; padding-left:40px;}
+	.restarant_heading h1{ font-family:Arial, Helvetica, sans-serif; font-size:1.2em; color:#FFFFFF;}
+
+/**************************************************/
+
+.restaurant_in_hubli{ background:url(../images/green_sub_header.png) repeat-x; width:102%; height:44px; margin-top:10px; float:left; margin-left:-10px;}
+	.gren_btn{ width:auto; height:35px; border:0px solid #000000; float:left; margin-left:35px;}
+	.gren_btn_on{ margin-left:10px; width:auto; height:auto; float:left; margin-top:5px;}
+	.gren_btn_title{margin-left:10px; width:auto; height:auto; float:left;}
+	.gren_btn_title p{ font-family:Arial, Helvetica, sans-serif; font-size:1em; font-weight:bold; margin-top:12px; color:#FFFFFF;}
+	
+	.red_btn{width:auto; height:35px; border:0px solid #000000; float:right; margin-right:35px;}
+	.red_btn_on{ margin-left:10px; width:auto; height:auto; float:left; margin-top:5px;}
+	.red_btn_title{margin-left:10px; width:auto; height:auto; float:left;}
+	.red_btn_title p{ font-family:Arial, Helvetica, sans-serif; font-size:1em; font-weight:bold; margin-top:12px; color:#FFFFFF;}	
+	
+.hubli_area_names{width:100%; height: auto; border:0px solid #000000; float:left;}
+.hubli_area_names_TBL{}
+.hubli_area_names_TBL td{ height:60px; text-align:center;}
+.hubli_area_names_TBL td  a { text-align:center; color:#6e5102; font-size:1.1em; font-family:Arial, Helvetica, sans-serif; text-decoration:none;}
+.hubli_area_names_TBL td  a:hover { text-align:center; color: #CC3300; font-size:1.1em; font-family:Arial, Helvetica, sans-serif; text-decoration: underline;}	
+	
+/*********************************************restaurant-in hubli*****************************************************************************************/
+/*********************************************follow_step*****************************************************************************************/	
+.steps{ width:879px; height:35px; /*background:url(../images/steps.png) no-repeat;*/ margin:0px auto; margin-top:30px; height:44px;}
+	.step_home_icon{ width:auto; height:auto;}
+.gallery_block{ width:879px; height: auto; float:left; border:0px solid #000000;  margin:0px auto; margin-left:150px; margin-top:30px;}
+	.profile{ width:600px; height: auto; float:left; border:0px solid  #000000;  margin:0px auto;}
+	.liked_by{width:200px; height:auto; float:right; border:0px solid  #000000; background: #F3F3F3; margin-bottom:45px;}
+.tabs{ width:879px; height:280px; border:0px solid #000000; background-color: #fff; clear:both; margin:0px auto; margin-top:30px;}
+
+/*********************************************review_sec*(page-4)****************************************************************************************/
+/*.review_restaurants{ border:0px solid #000; margin-top:30px; width:55%; margin-left:10px; clear:both; float:left; height:auto;}*/
+.review_restaurants_tbl{ border:0px solid #000; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#666666;}
+.review_restaurants_tbl td p{ text-align:justify; margin-left:30px; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#666666; margin-top:0px;}
+
+.review_restaurants_left{ clear:both; margin-left:60px; margin-top:15px;  width:210px; height:auto; float:left; border:0px solid #000000;}
+.review_restaurants_right{width:415px; height:auto; float:left; margin-top:15px; border:0px solid #000000; }
+.review_restaurants_right p{ text-align: justify; line-height:18px; float:left; margin-left:30px; font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#666666; margin-top:0px;}
+
+/***************************************review_sec*(page-4)****************************************************************************************/
+
+.new_cart_blk{ width:298px; height:auto; float:right; border:1px solid #990000; margin-top:25px; float:right; margin-right:20px;}
+
+/*********************************************add_to_cart(13-02-2013)****************************************************************************************/
+.tabs_blk{ width:790px; height:auto; background:fff; border:0px solid #000000; /*margin:0px auto;*/ margin-left:45px; margin-top:25px; float:left;}
+.tabs{width:700px; border:1px solid #000000; height:30px; margin-bottom:10px; background: #CCCCCC;}/*edited here*/
+.desc_cart{width:100%; background:url(../images/green_sub_header.png) repeat-x; border:0px solid #000000; height:44px; margin-bottom:10px;}
+.desc_cart p{ font-family:Arial, Helvetica, sans-serif; font-size:1em; color:#FFFFFF; font-weight:bold; margin-left:210px; margin-top:0px; padding-top:10px;}
+/***************************************************************************************************************************************/
+.cart_block{ width:700px; border:1px solid #0000FF; height:auto; /*position:absolute;*/ float:left; position:absolute; }
+
+.cart_menu{ width:170px; border:0px solid #ff0000; height:auto; float:left; position:absolute; }
+.cart_desc{ width:600px; border:0px dashed #CC0000; height:auto; margin-left:35px; float:left; margin-top:0px; }
+	.cart_desc_TBL{ font-family:Arial, Helvetica, sans-serif; font-size:11.5px; text-align:center; float:left; margin-top:0px; width:100%; }
+	.cart_desc_TBL #th_bg{ color:#FFFFFF; background: #CC9900/*url(../images/cart_table_bg.png) repeat-x*/; height:34px; }
+	.cart_desc_TBL #th_bg p{ color:#FFFFFF; margin-top:0px;  }
+	.cart_desc_TBL td #cart_txt_bg { width:55px; text-align:center; background:url(../images/cart_txt_bg.png) repeat-x; height:26px; border:none; border-left:1px solid #c2c2c2; border-right:1px solid #c2c2c2; }
+
+
+
+.cart_addcart{ width:300px; border:0px solid #000000; height:auto;  /*margin-left:20px;*/ float: right; }
+.cart_addcart_TBL{ margin-top:0px; }
+.cart_addcart_TBL #addcart_img{ background:url(../images/add_cart_top.png)no-repeat; width:297px; height:86px;}
+.cart_addcart_TBL #addcart_middle_img{ background: url(../images/add_cart_middle.png) repeat-y; width:297px; height: auto;}
+
+.inherit_addcart_TBL{ font-family:Arial, Helvetica, sans-serif; font-size:0.8em; color: #333333; }
+.inherit_addcart_TBL td #inherit_txt_bg{ background:url(../images/cart_txt_bg.png) repeat-x; height:26px; border:none; border-left:1px solid #c2c2c2; border-right:1px solid #c2c2c2; width:50px;}
+.inherit_addcart_TBL td #inherit_txt_botton{  background:url(../images/place_order_btn.png) no-repeat; width:99px; height:37px; border:none;}
+/*********************************************add_to_cart(13-02-2013)****************************************************************************************/
+
+/*********************************************offer(14-02-2013)****************************************************************************************/
+
+/*****/
+/*****/
+.offer_heading{  margin:10px 0 15px 200px; width:700px; background:url(../images/green_sub_header.png) repeat-x; border:0px solid #000000; height:44px; float:left;}
+.offer_heading h3{ font-size:1em; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; margin-top:10px; margin-left:55px; }
+/*****/
+.gallery_blk{width:700px; height:300px; background:#F3F3F3; border:0px solid #000000; clear:both;  margin:15px auto;}
+/*****/
+.great_offer_blk{width:1000px; height:250px; /*background:#F3F3F3; border:0px solid #000000;*/ clear:both;  margin:0px auto;}
+.great_offer_blk #img{ margin-left:30px;  }
+
+
+
+/*********************************************offer(14-02-2013)****************************************************************************************/
+
+
+/*Rajesh Rgister CSS*/
+	
+	.login_blk{ width:550px; height:auto; margin:0 auto; border:0px solid #000000;}
+.login_top{ background:url(../images/login_top.png) no-repeat; width:514px; height:20px;}
+.login_middle{ background:url(../images/login_middle.png) repeat-y; width:514px; height:300px;}
+	.login_header{ background: url(../images/login_header.png) no-repeat; width:244px; height:48px; margin-left:9px; }
+	.login_header p{ color:#15a5da; font-family:Arial, Helvetica, sans-serif; font-weight:bold;  margin-left:20px; padding-top:10px; float:left; margin-top:0px; font-size:1.5em; letter-spacing:1px;}
+	
+	.left_right{ width:400px; margin:0 auto; border:0px solid #000000; margin-left:50px; }	
+	/*.login_left{ border:0px solid #000000;   height:auto; width:200px;}	
+	.login_right{border:0px solid #000000;  height:auto; width:200px; float:left;}*/
+
+.login_tbl{}
+.login_tbl td { font-family:Arial, Helvetica, sans-serif; text-indent:10px; font-size:11px; margin-left:5px;}
+.login_tbl td #txt_bg{ background:url(../images/logn_txt_bg.png) repeat-x; height:27px; border:none; border-left:1px solid #BDBEC0; border-right:1px solid #BDBEC0; }
+
+.login_bottom{background:url(../images/login_bottom.png) no-repeat; width:514px; height:20px;}
+
+/*Login CSS*/
+
+.user_login_wrapper{ margin: 0 auto; border:0px solid #000000; width:370px; height:auto;}
+	.user_login_top{ background:url(../images/log_top.png) no-repeat; width:366px; height:50px;}
+	.user_login_middle{background:url(../images/log_middle.png) repeat-y; width:366px; height: auto;}
+	.user_login_bottom{background:url(../images/log_bottom.png)no-repeat; width:366px; height:44px;}
+
+.user_login_TBL{}
+.user_login_TBL td p{ font-family:Arial, Helvetica, sans-serif; color:#fff; font-size:0.9em;}
+.user_login_TBL td #TXT_bg{ background:url(../images/text_back.png) repeat-x; height:30px; border:none;}
+
+
+
+/* upload Img*/
+
+#theForm{
+	margin:0 auto;
+	width:400px;
+	padding: 20px;
+	background: rgba(238, 238, 238, 0.78);
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #E7E7E7;
+}
+#theForm label{
+	display:block;
+	font-weight:bold;
+	text-align:right;
+	width:140px;
+	float:left;
+}
+#theForm .small{
+	color:#666666;
+	display:block;
+	font-size:11px;
+	font-weight:normal;
+	text-align:right;
+	width:140px;
+}
+#theForm input{
+	float:left;
+	font-size:12px;
+	padding:4px 2px;
+	border:1px solid #aacfe4;
+	width:200px;
+	margin:2px 0 20px 10px;
+}
+#theForm textarea{
+	float:left;
+	font-size:12px;
+	padding:4px 2px;
+	border:solid 1px #aacfe4;
+	width:200px;
+	margin:2px 0 20px 10px;
+	height: 50px;
+}
+
+#theForm button{
+	clear:both;
+	margin-left:150px;
+}
+.red-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #f29c93;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #f29c93;
+	box-shadow:inset 0px 1px 0px 0px #f29c93;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #fe1a00), color-stop(1, #ce0100) );
+	background:-moz-linear-gradient( center top, #fe1a00 5%, #ce0100 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fe1a00', endColorstr='#ce0100');
+	background-color:#fe1a00;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #d83526;
+	display:inline-block;
+	color:#ffffff;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #b23e35;
+	font: bold 13px arial;
+}.red-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ce0100), color-stop(1, #fe1a00) );
+	background:-moz-linear-gradient( center top, #ce0100 5%, #fe1a00 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ce0100', endColorstr='#fe1a00');
+	background-color:#ce0100;
+}.red-button:active {
+	position:relative;
+	top:1px;
+}
+#output{text-align:center;}

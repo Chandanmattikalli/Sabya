@@ -1,0 +1,29 @@
+/* 
+    Document   : new_style2
+    Created on : 7 May, 2013, 9:48:52 PM
+    Author     : Kajal
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+/*********************************18-02-2013*****************/
+.info_review_blog{ width:750px; height:auto; border:0px solid #0000FF;}
+.info_review_blog_TBL{ font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#000; text-indent:10px; }
+.info_review_blog_TBL td{ background: url(images/info.png) repeat-x; height:30px;  }
+.info_review_blog_TBL td #Lbl{ font-family:Arial, Helvetica, sans-serif; font-size:12px; color: #336666; }
+
+.menu_last_updated{ width:750px; height:50px; border-top:2px solid #990000; border-bottom:2px solid #990000;}
+.menu_last_updated p{ float:right; margin-top:15px; font-weight:bold; color:#000; font-family:Arial, Helvetica, sans-serif; font-size:13px;}
+
+/*********************************18-02-2013*****************/
+
+.comment_blog{ width:810px; height: auto; border:0px solid #0000FF; height:auto; margin:0px auto; margin-left:0px;}
+.profile{width:810px; height: auto; border:0px solid #0000FF; height:auto; margin:0px auto; margin-left:152px;}
+.like_blog{ width:810px; height: auto; border:0px solid #0000FF; height:auto; margin:0px auto; margin-top:25px; margin-left:155px;}
+.like_blog_first{ width:200px; height: auto; border:1px solid #999999; height:auto; float:left; margin-bottom:25px;}
+.like_blog_second{ width:200px; margin-left:10px; height: auto; border:1px solid #999999; height:auto; float:left; margin-bottom:25px;}
+.like_blog_third{ width:200px; margin-left:10px; height: auto; border:1px solid #999999; height:auto; float:left; margin-bottom:25px;}
